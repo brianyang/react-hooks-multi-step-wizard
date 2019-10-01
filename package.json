@@ -1,6 +1,6 @@
 {
-  "name": "react-wizard-simple",
-  "version": "0.0.6",
+  "name": "react-hooks-multi-step-wizard",
+  "version": "0.0.1",
   "description": "A super-fast, bare-bones package to get you started creating a wizard with React hooks.",
   "main": "lib/index.js",
   "files": [
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brianyang/react-wizard-simple.git"
+    "url": "git+https://github.com/brianyang/react-hooks-multi-step-wizard.git"
   },
   "keywords": [
     "react",
@@ -38,9 +38,9 @@
   "author": "brianyang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brianyang/react-wizard-simple/issues"
+    "url": "https://github.com/brianyang/react-hooks-multi-step-wizard/issues"
   },
-  "homepage": "https://github.com/brianyang/react-wizard-simple#readme",
+  "homepage": "https://github.com/brianyang/react-hooks-multi-step-wizard#readme",
   "dependencies": {
     "@types/react-dom": "^16.9.1",
     "react-dom": "^16.10.0"
